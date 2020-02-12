@@ -9,7 +9,7 @@ ENV PYTHONUNBUFFERED 1
 
 #install geo libs
 RUN apt-get update
-RUN apt-get -y install binutils libproj-dev gdal-bin
+RUN apt-get -y install apt-utils binutils libproj-dev gdal-bin netcat postgresql-client
 
 # install dependencies
 RUN pip install pipenv
