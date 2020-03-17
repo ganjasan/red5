@@ -1,0 +1,4 @@
+id	unit_id	name	fullname	language_id
+1	2	кв.м.	квадратный метр	136
+2	4	%	процент	136
+3	3	%curISO3%/кв.м.	%curName% на квадратный метр	136

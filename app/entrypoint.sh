@@ -12,7 +12,12 @@ then
     echo "PostgreSQL started"
 fi
 
-python manage.py flush --no-input
+#python manage.py flush --no-input
+python manage.py makemigrations
 python manage.py migrate
+python manage.py loaddata currency.json country.json city.json unit.json
+
+#python manage.py createsuperuser 
+#echo "from django.contrib.auth import get_user_model; User = get_user_model(); User.objects.create_superuser('admin', 'admin@myproject.com', 'adminadmin')" | python manage.py shell
 
 exec "$@"

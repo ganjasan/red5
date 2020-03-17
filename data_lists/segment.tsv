@@ -1,0 +1,13 @@
+id	xqid	name	definition
+1	RETL	Retail	\N
+2	OFFC	Office	\N
+3	INDL	Industrial	\N
+4	MIXD	Mixed use	\N
+5	RESL	Residential	\N
+6	MLTF	Multifamily	\N
+7	HSTR	Street retail	\N
+8	HOTL	Hotel	\N
+9	LSRE	Leisure	\N
+10	HLTH	Healthcare	\N
+11	LAND	Land	\N
+12	SPEC	Special	\N

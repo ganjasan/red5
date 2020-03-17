@@ -1,0 +1,5 @@
+id	xqid	name	fullname	format
+1	VOL	\N	None	
+2	SQM	sqm	square meters	#,##0.0
+4	PCT	%	per cent	0.0%
+5	PRS	ppl	persons	#

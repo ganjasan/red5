@@ -1,0 +1,240 @@
+id	name	"ISO2"	"ISO3"	currency_id	language_id
+1	Andorra	AD	AND	49	23
+2	United Arab Emirates	AE	ARE	1	8
+3	Afghanistan	AF	AFG	2	130
+4	Antigua and Barbuda	AG	ATG	166	38
+5	Anguilla	AI	AIA	166	38
+6	Albania	AL	ALB	3	149
+7	Armenia	AM	ARM	4	63
+8	Angola	AO	AGO	6	131
+9	Antarctica	AQ	ATA	180	38
+10	Argentina	AR	ARG	7	40
+11	American Samoa	AS	ASM	150	38
+12	Austria	AT	AUT	49	33
+13	Australia	AU	AUS	8	38
+14	Aruba	AW	ABW	9	38
+15	Aland Islands	AX	ALA	49	38
+16	Azerbaijan	AZ	AZE	10	12
+17	Bosnia and Herzegovina	BA	BIH	11	22
+18	Barbados	BB	BRB	12	38
+19	Bangladesh	BD	BGD	13	19
+20	Belgium	BE	BEL	49	116
+21	Burkina Faso	BF	BFA	168	48
+22	Bulgaria	BG	BGR	14	15
+23	Bahrain	BH	BHR	15	8
+24	Burundi	BI	BDI	16	134
+25	Benin	BJ	BEN	168	48
+26	Saint Barthelemy	BL	BLM	49	38
+27	Bermuda	BM	BMU	17	38
+28	Brunei	BN	BRN	18	108
+29	Bolivia	BO	BOL	19	40
+30	Brazil	BR	BRA	21	131
+31	Bahamas	BS	BHS	22	38
+32	Bhutan	BT	BTN	23	35
+33	Botswana	BW	BWA	24	38
+34	Belarus	BY	BLR	25	14
+35	Belize	BZ	BLZ	26	38
+36	Canada	CA	CAN	27	38
+37	Cocos Islands	CC	CCK	8	38
+38	DR Congo	CD	COD	28	38
+39	Central African Republic	CF	CAF	159	48
+40	Congo	CG	COG	159	48
+41	Switzerland	CH	CHE	29	33
+42	Cote d'Ivoire	CI	CIV	168	48
+43	Cook Islands	CK	COK	110	38
+44	Chile	CL	CHL	32	40
+45	Cameroon	CM	CMR	159	48
+46	China	CN	CHN	34	183
+47	Colombia	CO	COL	35	40
+48	Costa Rica	CR	CRI	37	40
+49	Cuba	CU	CUB	38	40
+50	Cabo Verde	CV	CPV	180	38
+51	Curacao	CW	CUW	5	38
+52	Christmas Island	CX	CXR	8	38
+53	Cyprus	CY	CYP	49	37
+54	Czech Republic	CZ	CZE	41	28
+55	Germany	DE	DEU	49	33
+56	Djibouti	DJ	DJI	42	48
+57	Denmark	DK	DNK	43	32
+58	Dominica	DM	DMA	166	38
+59	Dominican Republic	DO	DOM	44	40
+60	Algeria	DZ	DZA	45	8
+61	Ecuador	EC	ECU	150	40
+62	Estonia	EE	EST	49	41
+63	Egypt	EG	EGY	46	8
+64	Western Sahara	EH	ESH	90	38
+65	Eritrea	ER	ERI	47	1
+66	Spain	ES	ESP	49	40
+67	Ethiopia	ET	ETH	48	6
+68	European Union	EU	EUR	49	38
+69	Finland	FI	FIN	49	45
+70	Fiji	FJ	FJI	50	38
+71	Falkland Islands	FK	FLK	51	38
+72	Micronesia	FM	FSM	150	38
+73	Faroe Islands	FO	FRO	43	38
+74	France	FR	FRA	49	48
+75	Gabon	GA	GAB	159	48
+76	United Kingdom	GB	GBR	52	38
+77	Grenada	GD	GRD	166	38
+78	Georgia	GE	GEO	53	77
+79	Guernsey	GG	GGY	52	38
+80	Ghana	GH	GHA	54	38
+81	Gibraltar	GI	GIB	55	38
+82	Greenland	GL	GRL	43	38
+83	Gambia	GM	GMB	56	38
+84	Guinea	GN	GIN	57	48
+85	Equatorial Guinea	GQ	GNQ	159	40
+86	Greece	GR	GRC	49	37
+87	South Georgia and the South Sandwich Islands	GS	SGS	52	38
+88	Guatemala	GT	GTM	58	40
+89	Guam	GU	GUM	150	38
+90	Guinea-Bissau	GW	GNB	168	131
+91	Guyana	GY	GUY	59	38
+92	Hong Kong	HK	HKG	60	38
+93	Honduras	HN	HND	61	40
+94	Croatia	HR	HRV	62	60
+95	Haiti	HT	HTI	63	61
+96	Hungary	HU	HUN	64	62
+97	Indonesia	ID	IDN	65	66
+98	Ireland	IE	IRL	49	38
+99	Israel	IL	ISR	66	57
+100	Isle of Man	IM	IMN	52	38
+101	India	IN	IND	67	58
+102	Iraq	IQ	IRQ	68	8
+103	Iran	IR	IRN	69	43
+104	Iceland	IS	ISL	70	72
+105	Italy	IT	ITA	49	73
+106	Jersey	JE	JEY	52	38
+107	Jamaica	JM	JAM	71	38
+108	Jordan	JO	JOR	72	8
+109	Japan	JP	JPN	73	75
+110	Kenya	KE	KEN	74	38
+111	Kyrgyzstan	KG	KGZ	75	91
+112	Cambodia	KH	KHM	76	83
+113	Kiribati	KI	KIR	8	38
+114	Comoros	KM	COM	77	8
+115	Saint Kitts and Nevis	KN	KNA	166	38
+116	North Korea	KP	PRK	78	85
+117	South Korea	KR	KOR	79	85
+118	Kuwait	KW	KWT	80	8
+119	Cayman Islands	KY	CYM	81	38
+120	Kazakhstan	KZ	KAZ	82	81
+121	Laos	LA	LAO	83	97
+122	Lebanon	LB	LBN	84	8
+123	Saint Lucia	LC	LCA	166	38
+124	Liechtenstein	LI	LIE	30	33
+125	Sri Lanka	LK	LKA	85	143
+126	Liberia	LR	LBR	86	38
+127	Lesotho	LS	LSO	87	38
+128	Lithuania	LT	LTU	88	98
+129	Luxembourg	LU	LUX	49	93
+130	Latvia	LV	LVA	49	100
+131	Libya	LY	LBY	89	8
+132	Morocco	MA	MAR	90	8
+133	Monaco	MC	MCO	49	48
+134	Moldova	MD	MDA	91	135
+135	Montenegro	ME	MNE	49	150
+136	Saint Martin	MF	MAF	49	38
+137	Madagascar	MG	MDG	92	101
+138	Marshall Islands	MH	MHL	150	102
+139	Macedonia	MK	MKD	93	104
+140	Mali	ML	MLI	168	48
+141	Myanmar	MM	MMR	94	110
+142	Mongolia	MN	MNG	95	106
+143	Macao	MO	MAC	96	38
+144	Northern Mariana Islands	MP	MNP	150	38
+145	Martinique	MQ	MTQ	49	38
+146	Mauritania	MR	MRT	97	8
+147	Montserrat	MS	MSR	166	38
+148	Malta	MT	MLT	49	109
+149	Mauritius	MU	MUS	98	38
+150	Maldives	MV	MDV	99	34
+151	Malawi	MW	MWI	100	121
+152	Mexico	MX	MEX	101	40
+153	Malaysia	MY	MYS	103	108
+154	Mozambique	MZ	MOZ	104	131
+155	Namibia	NA	NAM	105	38
+156	New Caledonia	NC	NCL	170	38
+157	Niger	NE	NER	168	48
+158	Norfolk Island	NF	NFK	8	38
+159	Nigeria	NG	NGA	106	38
+160	Nicaragua	NI	NIC	107	40
+161	Netherlands	NL	NLD	49	116
+162	Norway	NO	NOR	108	118
+163	Nepal	NP	NPL	109	114
+164	Nauru	NR	NRU	8	111
+165	Niue	NU	NIU	110	38
+166	New Zealand	NZ	NZL	110	38
+167	Oman	OM	OMN	111	8
+168	Panama	PA	PAN	112	40
+169	Peru	PE	PER	113	40
+170	French Polynesia	PF	PYF	170	38
+171	Papua New Guinea	PG	PNG	114	59
+172	Philippines	PH	PHL	115	38
+173	Pakistan	PK	PAK	116	172
+174	Poland	PL	POL	117	129
+175	Pitcairn	PN	PCN	110	38
+176	Puerto Rico	PR	PRI	150	38
+177	Palestine	PS	PSE	180	38
+178	Portugal	PT	PRT	49	131
+179	Palau	PW	PLW	150	38
+180	Paraguay	PY	PRY	118	40
+181	Qatar	QA	QAT	119	8
+182	Romania	RO	ROU	120	135
+183	Serbia	RS	SRB	121	150
+184	Russia	RU	RUS	122	136
+185	Rwanda	RW	RWA	123	137
+186	Saudi Arabia	SA	SAU	124	8
+187	Solomon Islands	SB	SLB	125	38
+188	Seychelles	SC	SYC	126	38
+189	Sudan	SD	SDN	127	8
+190	Sweden	SE	SWE	128	154
+191	Singapore	SG	SGP	129	38
+192	Saint Helena, Ascension and Tristan da Cunha	SH	SHN	130	38
+193	Slovenia	SI	SVN	49	145
+194	Slovakia	SK	SVK	49	144
+195	Sierra Leone	SL	SLE	131	38
+196	San Marino	SM	SMR	49	73
+197	Senegal	SN	SEN	168	48
+198	Somalia	SO	SOM	132	148
+199	Suriname	SR	SUR	133	116
+200	South Sudan	SS	SSD	134	38
+201	Sao Tome and Principe	ST	STP	135	131
+202	El Salvador	SV	SLV	150	40
+203	Syrian Arab Republic	SY	SYR	137	8
+204	Swaziland	SZ	SWZ	138	38
+205	Turks and Caicos Islands	TC	TCA	150	38
+206	Chad	TD	TCD	159	48
+207	French Southern Territories	TF	ATF	49	38
+208	Togo	TG	TGO	168	48
+209	Thailand	TH	THA	139	159
+210	Tajikistan	TJ	TJK	140	158
+211	Tokelau	TK	TKL	110	38
+212	Timor-Leste	TL	TLS	150	38
+213	Turkmenistan	TM	TKM	141	161
+214	Tunisia	TN	TUN	142	8
+215	Tonga	TO	TON	143	164
+216	Turkey	TR	TUR	144	165
+217	Trinidad and Tobago	TT	TTO	145	38
+218	Tuvalu	TV	TUV	8	38
+219	Taiwan	TW	TWN	146	183
+220	Tanzania	TZ	TZA	147	155
+221	Ukraine	UA	UKR	148	171
+222	Uganda	UG	UGA	149	38
+223	United States	US	USA	150	38
+224	Uruguay	UY	URY	153	40
+225	Uzbekistan	UZ	UZB	154	173
+226	Vatican City	VA	VAT	49	73
+227	Saint Vincent and the Grenadines	VC	VCT	166	38
+228	Venezuela	VE	VEN	155	40
+229	British Virgin Islands	VG	VGB	150	38
+230	U.S. Virgin Islands	VI	VIR	150	38
+231	Vietnam	VN	VNM	156	175
+232	Vanuatu	VU	VUT	157	17
+233	Wallis and Futuna	WF	WLF	170	38
+234	Samoa	WS	WSM	158	146
+235	Yemen	YE	YEM	176	8
+236	Mayotte	YT	MYT	49	38
+237	South Africa	ZA	ZAF	177	4
+238	Zambia	ZM	ZMB	178	38
+239	Zimbabwe	ZW	ZWE	179	38

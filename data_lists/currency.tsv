@@ -1,0 +1,181 @@
+id	name	"ISO3"	symbol
+1	UAE Dirham	AED	
+2	Afghani	AFN	؋
+3	Lek	ALL	Lek
+4	Armenian Dram	AMD	
+5	Netherlands Antillean Guilder	ANG	ƒ
+6	Kwanza	AOA	
+7	Argentine Peso	ARS	$
+8	Australian Dollar	AUD	$
+9	Aruban Florin	AWG	ƒ
+10	Azerbaijanian Manat	AZN	ман
+11	Convertible Mark	BAM	KM
+12	Barbados Dollar	BBD	$
+13	Taka	BDT	
+14	Bulgarian Lev	BGN	лв
+15	Bahraini Dinar	BHD	
+16	Burundi Franc	BIF	
+17	Bermudian Dollar	BMD	$
+18	Brunei Dollar	BND	$
+19	Boliviano	BOB	$b
+20	Mvdol	BOV	
+21	Brazilian Real	BRL	R$
+22	Bahamian Dollar	BSD	$
+23	Ngultrum	BTN	
+24	Pula	BWP	P
+25	Belarussian Ruble	BYR	p.
+26	Belize Dollar	BZD	BZ$
+27	Canadian Dollar	CAD	$
+28	Congolese Franc	CDF	
+29	WIR Euro	CHE	
+30	Swiss Franc	CHF	
+31	WIR Franc	CHW	
+32	Unidad de Fomento	CLF	
+33	Chilean Peso	CLP	$
+34	Yuan Renminbi	CNY	¥
+35	Colombian Peso	COP	$
+36	Unidad de Valor Real	COU	
+37	Costa Rican Colon	CRC	₡
+38	Peso Convertible	CUC	
+39	Cuban Peso	CUP	₱
+40	Cape Verde Escudo	CVE	
+41	Czech Koruna	CZK	Kč
+42	Djibouti Franc	DJF	
+43	Danish Krone	DKK	kr
+44	Dominican Peso	DOP	RD$
+45	Algerian Dinar	DZD	
+46	Egyptian Pound	EGP	£
+47	Nakfa	ERN	
+48	Ethiopian Birr	ETB	
+49	Euro	EUR	€
+50	Fiji Dollar	FJD	$
+51	Falkland Islands Pound	FKP	£
+52	Pound Sterling	GBP	£
+53	Lari	GEL	
+54	Ghana Cedi	GHS	
+55	Gibraltar Pound	GIP	£
+56	Dalasi	GMD	
+57	Guinea Franc	GNF	
+58	Quetzal	GTQ	Q
+59	Guyana Dollar	GYD	$
+60	Hong Kong Dollar	HKD	$
+61	Lempira	HNL	L
+62	Croatian Kuna	HRK	kn
+63	Gourde	HTG	
+64	Forint	HUF	Ft
+65	Rupiah	IDR	Rp
+66	New Israeli Sheqel	ILS	₪
+67	Indian Rupee	INR	
+68	Iraqi Dinar	IQD	
+69	Iranian Rial	IRR	﷼
+70	Iceland Krona	ISK	kr
+71	Jamaican Dollar	JMD	J$
+72	Jordanian Dinar	JOD	
+73	Yen	JPY	¥
+74	Kenyan Shilling	KES	
+75	Som	KGS	лв
+76	Riel	KHR	៛
+77	Comoro Franc	KMF	
+78	North Korean Won	KPW	₩
+79	Won	KRW	₩
+80	Kuwaiti Dinar	KWD	
+81	Cayman Islands Dollar	KYD	$
+82	Tenge	KZT	лв
+83	Kip	LAK	₭
+84	Lebanese Pound	LBP	£
+85	Sri Lanka Rupee	LKR	₨
+86	Liberian Dollar	LRD	$
+87	Loti	LSL	
+88	Lithuanian Litas	LTL	Lt
+89	Libyan Dinar	LYD	
+90	Moroccan Dirham	MAD	
+91	Moldovan Leu	MDL	
+92	Malagasy Ariary	MGA	
+93	Denar	MKD	ден
+94	Kyat	MMK	
+95	Tugrik	MNT	₮
+96	Pataca	MOP	
+97	Ouguiya	MRO	
+98	Mauritius Rupee	MUR	₨
+99	Rufiyaa	MVR	
+100	Kwacha	MWK	
+101	Mexican Peso	MXN	$
+102	Mexican Unidad de Inversion (UDI)	MXV	
+103	Malaysian Ringgit	MYR	RM
+104	Mozambique Metical	MZN	MT
+105	Namibia Dollar	NAD	$
+106	Naira	NGN	₦
+107	Cordoba Oro	NIO	C$
+108	Norwegian Krone	NOK	kr
+109	Nepalese Rupee	NPR	₨
+110	New Zealand Dollar	NZD	$
+111	Rial Omani	OMR	﷼
+112	Balboa	PAB	B/.
+113	Nuevo Sol	PEN	S/.
+114	Kina	PGK	
+115	Philippine Peso	PHP	₱
+116	Pakistan Rupee	PKR	₨
+117	Zloty	PLN	zł
+118	Guarani	PYG	Gs
+119	Qatari Rial	QAR	﷼
+120	New Romanian Leu	RON	lei
+121	Serbian Dinar	RSD	Дин.
+122	Russian Ruble	RUB	руб
+123	Rwanda Franc	RWF	
+124	Saudi Riyal	SAR	﷼
+125	Solomon Islands Dollar	SBD	$
+126	Seychelles Rupee	SCR	₨
+127	Sudanese Pound	SDG	
+128	Swedish Krona	SEK	kr
+129	Singapore Dollar	SGD	$
+130	Saint Helena Pound	SHP	£
+131	Leone	SLL	
+132	Somali Shilling	SOS	S
+133	Surinam Dollar	SRD	$
+134	South Sudanese Pound	SSP	
+135	Dobra	STD	
+136	El Salvador Colon	SVC	$
+137	Syrian Pound	SYP	£
+138	Lilangeni	SZL	
+139	Baht	THB	฿
+140	Somoni	TJS	
+141	Turkmenistan New Manat	TMT	
+142	Tunisian Dinar	TND	
+143	Pa'anga	TOP	
+144	Turkish Lira	TRY	
+145	Trinidad and Tobago Dollar	TTD	TT$
+146	New Taiwan Dollar	TWD	NT$
+147	Tanzanian Shilling	TZS	
+148	Hryvnia	UAH	₴
+149	Uganda Shilling	UGX	
+150	US Dollar	USD	$
+151	US Dollar (Next day)	USN	
+152	Uruguay Peso en Unidades Indexadas (URUIURUI)	UYI	
+153	Peso Uruguayo	UYU	$U
+154	Uzbekistan Sum	UZS	лв
+155	Bolivar	VEF	Bs
+156	Dong	VND	₫
+157	Vatu	VUV	
+158	Tala	WST	
+159	CFA Franc BEAC	XAF	
+160	Silver	XAG	
+161	Gold	XAU	
+162	Bond Markets Unit European Composite Unit (EURCO)	XBA	
+163	Bond Markets Unit European Monetary Unit (E.M.U.-6)	XBB	
+164	Bond Markets Unit European Unit of Account 9 (E.U.A.-9)	XBC	
+165	Bond Markets Unit European Unit of Account 17 (E.U.A.-17)	XBD	
+166	East Caribbean Dollar	XCD	$
+167	SDR (Special Drawing Right)	XDR	
+168	CFA Franc BCEAO	XOF	
+169	Palladium	XPD	
+170	CFP Franc	XPF	
+171	Platinum	XPT	
+172	Sucre	XSU	
+173	Codes specifically reserved for testing purposes	XTS	
+174	ADB Unit of Account	XUA	
+175	The codes assigned for transactions where no currency is involved	XXX	
+176	Yemeni Rial	YER	﷼
+177	Rand	ZAR	R
+178	Zambian Kwacha	ZMW	
+179	Zimbabwe Dollar	ZWL	
+180	No currency defined	NON	

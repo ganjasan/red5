@@ -1,0 +1,1 @@
+[{"model":"api.Unit","pk":1,"fields":{"name":"\\N","fullname":"None"}},{"model":"api.Unit","pk":2,"fields":{"name":"sqm","fullname":"square meters"}},{"model":"api.Unit","pk":4,"fields":{"name":"%","fullname":"per cent"}},{"model":"api.Unit","pk":5,"fields":{"name":"ppl","fullname":"persons"}}]

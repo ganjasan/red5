@@ -10,6 +10,7 @@ ENV PYTHONUNBUFFERED 1
 #install geo libs
 RUN apt-get update
 RUN apt-get -y install apt-utils binutils libproj-dev gdal-bin netcat postgresql-client
+RUN apt-get -y install openssh-server
 
 # install dependencies
 RUN pip install pipenv
